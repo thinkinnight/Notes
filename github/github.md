@@ -49,4 +49,5 @@ $ export https_proxy="http://username:password@squid.vpsee.com:3128/"
 7. http://www.zhanggang.net/y2011/39996.html
 8. http://easwy.com/blog/archives/use_http_proxy_for_git/
 9. http://itstarting.iteye.com/blog/1436321
-
+10. http://stackoverflow.com/questions/7489813/github-push-error-rpc-failed-result-22-http-code-413
+11. http://planet.python.org.tw/planet/user/20/tag/%E5%BF%83%E6%83%85%E6%95%85%E4%BA%8B/
