@@ -27,3 +27,21 @@ http://jingyan.baidu.com/article/1709ad80ced1db4634c4f00a.html
 http://www.missyuan.com/viewthread.php?tid=550372
 http://www.missyuan.com/viewthread.php?tid=526755
 
+PNG图标
+1. http://www.k1982.com/png/
+2. http://www.iconspedia.com/
+3. http://www.veryicon.com/search/paint/
+4. http://naldzgraphics.net/freebies/40-excellent-free-icon-sets-everyone-must-have/
+5. http://creativenerds.co.uk/freebies/99-icon-sets-for-use-in-commercial-design-projects/
+6. http://www.webappers.com/2010/06/16/500-mini-icons-free-for-commercial-project-in-png-format/
+
+Android 控件美化
+1. http://haric.iteye.com/blog/409863
+2. http://topic.csdn.net/u/20120510/20/381877c2-047c-414b-a717-0a641c8f178b.html
+3. http://dengzh.iteye.com/blog/788978
+4. http://stackoverflow.com/questions/7511315/change-size-of-android-seekbar
+5. http://stackoverflow.com/questions/7404100/how-to-fix-seekbar-bar-thumb-centering-issues
+6. http://blog.csdn.net/chenvsa/article/details/7398924
+
+1. http://droidista.blogspot.com/2011/02/that-damn-seekbar-thumb.html
+
