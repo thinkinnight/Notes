@@ -78,6 +78,11 @@ dp就是dip, dp是与密度1关，sp除了与密度1关，还与sacle1关。
 px：表示屏幕实际的像素
 pt: 表示一个点，是屏幕的物理尺寸
 
+#Android透明效果的实现
+http://hi.baidu.com/fqlibra/blog/item/cbe28fb5dd95b558092302b0.html
+#按钮
+http://blog.csdn.net/xjanker2/article/details/6222690
+
 #Android混淆器
 ##ProGuard
 http://www.cnblogs.com/CoolJie/archive/2012/05/16/2504184.html#2385997
