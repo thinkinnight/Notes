@@ -81,3 +81,14 @@ pt: 表示一个点，是屏幕的物理尺寸
 #Android混淆器
 ##ProGuard
 http://www.cnblogs.com/CoolJie/archive/2012/05/16/2504184.html#2385997
+
+#Android paint redo/undo
+1. http://topic.csdn.net/t/20020904/11/994858.html
+2. http://blog.sina.com.cn/s/blog_5f8817250100lqk0.html
+3. http://blog.csdn.net/leehong2005/article/details/7334959
+4. http://www.apkstory.com/development/implement-doodle-undo-redo-function.html
+5. http://www.tutorialforandroid.com/2010/11/drawing-with-canvas-in-android-undoredo.html
+6. http://stackoverflow.com/questions/7633282/android-add-undo-feature-to-finger-paint-example-in-api-demo
+7. http://stackoverflow.com/questions/5156848/how-to-undo-redo-last-touch-action?rq=1
+8. http://stackoverflow.com/questions/9867789/how-to-save-bitmap-for-undo-functionality-in-paint-in-android
+9. http://topic.csdn.net/u/20100424/12/22e9ae51-e910-46e5-9e0d-28ec99d93dbb.html
