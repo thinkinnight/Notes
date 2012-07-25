@@ -97,3 +97,6 @@ http://www.cnblogs.com/CoolJie/archive/2012/05/16/2504184.html#2385997
 7. http://stackoverflow.com/questions/5156848/how-to-undo-redo-last-touch-action?rq=1
 8. http://stackoverflow.com/questions/9867789/how-to-save-bitmap-for-undo-functionality-in-paint-in-android
 9. http://topic.csdn.net/u/20100424/12/22e9ae51-e910-46e5-9e0d-28ec99d93dbb.html
+
+#²»´íµÄÈí¼þ
+1. http://news.newhua.com/news1/Skills_Draw/2010/86/1086161433287079EH901I2KDIIEF5470GG8B9849IF312IBA1En.html
