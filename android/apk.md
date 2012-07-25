@@ -100,3 +100,5 @@ http://www.cnblogs.com/CoolJie/archive/2012/05/16/2504184.html#2385997
 
 #²»´íµÄÈí¼þ
 1. http://news.newhua.com/news1/Skills_Draw/2010/86/1086161433287079EH901I2KDIIEF5470GG8B9849IF312IBA1En.html
+2. http://www.eoeandroid.com/thread-156523-3-1.html
+
