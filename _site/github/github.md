@@ -53,8 +53,6 @@ rvm的使用
 2. https://rvm.io/integration/gnome-terminal/
 
 6. sudo gem install jekyll
-7. rvm use 1.9.3
-8. ruby --version
 
 #参考
 1. http://omiga.org/blog/archives/1896
@@ -75,19 +73,4 @@ rvm的使用
 16. http://freewind.me/blog/20111114/578.html
 17. http://gemantic.iteye.com/blog/1211527
 18. http://www.yangzhiping.com/tech/wordpress-to-jekyll.html
-19. http://jiangle.name/2012/02/06/switched-to-jekyll/
-20. http://www.soimort.org/tech-blog/2011/11/19/introduction-to-jekyll_zh.html
-21. http://saberma.me/other/2010/09/20/saberma-github-page-blog-build-with-jekyll.html
-22. http://ruby-china.org/wiki/rvm-guide
-23. http://yangzetian.github.com/2012/04/15/jekyll-pandoc/
-24. http://blog.skydark.info/programming/2012/03/23/play-with-jekyll/
-25. http://www.worldhello.net/gotgithub/03-project-hosting/050-homepage.html
-26. http://wrongwaycn.github.com/bootstrap/docs/index.html
-27. http://jiangle.name/2012/02/06/switched-to-jekyll/
-28. http://zaxon.github.com/jekyll/2012/05/21/new-post/
-29. http://luoluo.github.com/blog/2012/03/25/github-plus-octopress-equals-equals-geeks-blog/
-30. http://evsseny.appspot.com/?p=63001
-31. http://blog.csdn.net/liumengxinfly/article/details/7419144
-32. http://jekyllbootstrap.com/
-33. http://wrongwaycn.github.com/index.html
 
